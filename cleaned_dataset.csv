@@ -1,0 +1,6 @@
+sex,tissue,vivo_vitro,case_control,is_case
+F,stomach,in_vivo,case,1.0
+F,whole blood,in_vitro,case,1.0
+MISSING,other,in_vivo,missing,
+F,whole blood,in_vivo,case,1.0
+F,whole blood,in_vivo,missing,
